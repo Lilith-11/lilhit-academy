@@ -215,3 +215,6 @@ footer p {
     margin-top: 10px;
     color: #38bdf8;
 }
+html {
+    scroll-behavior: smooth;
+}
